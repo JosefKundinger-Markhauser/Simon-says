@@ -1,0 +1,3 @@
+C:/aa/Simon says/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/aa/Simon says/out/build/x64-Debug (default)/CMakeFiles/Assignment.dir
+C:/aa/Simon says/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
