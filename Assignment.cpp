@@ -60,11 +60,11 @@ int main()
     result.format(true);
 
     //sounds
-    nana::audio::player redSound("Do_Piano.wav");
-    nana::audio::player blueSound("Re_Piano.wav");
-    nana::audio::player yellowSound("Mi_Piano.wav");
-    nana::audio::player greenSound("Fa_Piano.wav");
-    nana::audio::player gameOver("game_over.wav");
+    nana::audio::player redSound("sounds/Do_Piano.wav");
+    nana::audio::player blueSound("sounds/Re_Piano.wav");
+    nana::audio::player yellowSound("sounds/Mi_Piano.wav");
+    nana::audio::player greenSound("sounds/Fa_Piano.wav");
+    nana::audio::player gameOver("sounds/game_over.wav");
     nana::threads::pool pool(1);
 
     // buttons
